@@ -24,6 +24,15 @@ A collection of cybersecurity labs, CTF writeups, and practical security project
 
 ---
 
+# Networking
+
+| Lab Name | Platform | Writeup |
+|---|---|---|
+| Network Fundamentals | TryHackMe | [PDF](./writeups/tryhackme/network-fundamentals.pdf) |
+
+---
+
+
 # Digital Forensics
 
 | Lab Name | Platform | Writeup |
@@ -38,14 +47,6 @@ A collection of cybersecurity labs, CTF writeups, and practical security project
 |---|---|---|
 | Splunk Basics | TryHackMe | [PDF](./writeups/tryhackme/splunk-basics.pdf) |
 | SOC Level 1 | CyberDefenders | [PDF](./writeups/cyberdefenders/soc-level-1.pdf) |
-
----
-
-# Networking
-
-| Lab Name | Platform | Writeup |
-|---|---|---|
-| Network Fundamentals | TryHackMe | [PDF](./writeups/tryhackme/network-fundamentals.pdf) |
 
 ---
 
